@@ -1,0 +1,1 @@
+(inc"stdio.h")(def f(imp int)(do(printf"Hello!\n")0))(def main(imp int)(f))

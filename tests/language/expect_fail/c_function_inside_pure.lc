@@ -1,0 +1,1 @@
+(inc"stdio.h")(def g(int)(printf"hello world"))

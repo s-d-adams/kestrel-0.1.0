@@ -1,0 +1,1 @@
+(inc"stdio.h")(def main(imp int)(let(l(lam((i int)int)(* i i)))(do(printf"%d\n"(l 14))0)))

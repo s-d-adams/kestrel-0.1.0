@@ -1,0 +1,1 @@
+(inc"stdio.h")(def main(imp int)(do(printf"%f\n"123.456789)0))

@@ -1,0 +1,1 @@
+(inc"stdio.h")(def f(imp(i int)void)(printf"%d\n"i))(def main(imp int)(let(a((array int)(1 2 3 4)))(do(doEach a f)0)))

@@ -1,0 +1,1 @@
+(inc"stdio.h")(def f((i int)int)(* i i))(def main(imp int)(do(printf"%d\n"(f 123))0))

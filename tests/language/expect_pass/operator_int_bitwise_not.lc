@@ -1,0 +1,1 @@
+(inc"stdio.h")(def main(imp int)(do(printf"%d\n"(~ 42))0))

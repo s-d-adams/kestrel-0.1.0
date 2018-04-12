@@ -1,0 +1,1 @@
+(inc"stdio.h")(def main(imp int)(let(i int 246)(do(printf"%d\n"i)0)))

@@ -1,0 +1,1 @@
+(inc"stdio.h")(def main(imp int)(do(printf"%d\n"(/ 9 3))0))

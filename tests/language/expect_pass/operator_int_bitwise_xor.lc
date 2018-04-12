@@ -1,0 +1,1 @@
+(inc"stdio.h")(def main(imp int)(do(printf"%d\n%d\n%d\n%d\n"(^ 21 42)(^ 21 63)(^ 63 21)(^ 0 0))0))
